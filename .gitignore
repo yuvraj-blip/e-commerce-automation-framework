@@ -1,4 +1,31 @@
-.env
-pytest.venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+pytest.venv/
+.venv/
+env/
+venv/
+ENV/
+
+# Pytest & Test Execution Artifacts
 .pytest_cache/
+reports/
+results/
+*.html
+
+# Environment & Local secrets
+.env
+.env.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db

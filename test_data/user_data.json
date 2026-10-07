@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Mr",
+    "name": "AutomationTester",
+    "email": "auto_tester@example.com",
+    "password": "TestPassword123!",
+    "dob": {
+      "day": "15",
+      "month": "5",
+      "year": "1995"
+    },
+    "newsletter": true,
+    "special_offers": true,
+    "address_info": {
+      "first_name": "John",
+      "last_name": "Doe",
+      "company": "QA Automation Corp",
+      "address1": "123 Automation Way",
+      "address2": "Suite 400",
+      "country": "United States",
+      "state": "California",
+      "city": "Los Angeles",
+      "zipcode": "90001",
+      "mobile_number": "1234567890"
+    }
+  }
+]
